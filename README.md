@@ -18,8 +18,6 @@ A lightweight, configuration-first Neovim plugin written in Lua that dynamically
 
 Install it using your favorite plugin manager.
 
-### [lazy.nvim](https://github.com)
-
 ```lua
 
 vim.pack.add({
