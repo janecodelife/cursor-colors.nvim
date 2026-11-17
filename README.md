@@ -59,8 +59,8 @@ require("cursor-colors").setup({
 ## Video 📺
 
 <p align="center">
-  <a href="https://youtu.be/O9HuCR4MXR8">
-    <img src="./assets/markdown-toc.png" alt="markdown-toc-video" width="100%">
+  <a href="https://www.youtube.com/watch?v=UKbAVdtTZNQ">
+    <img src="./assets/cursor-colors.png" alt="cursor-colors-video" width="100%">
   </a>
 </p>
 
